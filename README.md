@@ -1,4 +1,4 @@
-# Overleaf Git Setup Guide
+# Overleaf Git Setup Guide and Claude_Skill.md
 
 ## Repository
 
